@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "semver": "^7.3.2"
+    "has-package-exports": "^1.1.0"
   },
   "devDependencies": {
-    "tap": "^14.10.7"
+    "semver": "^7.3.2"
   },
   "scripts": {
-    "test": "tap test/lib.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",

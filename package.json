@@ -1,6 +1,6 @@
 {
   "name": "supports-esm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect at runtime if Node.js supports ECMAScript modules",
   "main": "index.js",
   "exports": "./index.js",

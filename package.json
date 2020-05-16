@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "Detect at runtime if Node.js supports ECMAScript modules",
   "main": "index.js",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "has-package-exports": "^1.1.0"
   },
